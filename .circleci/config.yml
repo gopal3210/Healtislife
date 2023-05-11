@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of CircleCI pipeline process engine.
+d# Use the latest 2.1 version of CircleCI pipeline process engined
 # See: https://circleci.com/docs/configuration-reference
 version: 2.1
 
@@ -20,7 +20,7 @@ jobs:
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
-workflows:
+workflows:ET
   say-hello-workflow:
     jobs:
       - say-hello
